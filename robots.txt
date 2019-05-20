@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iecafaege.quicky.io/sitemap.xml
